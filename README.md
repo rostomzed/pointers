@@ -1,4 +1,4 @@
-# Play with pointers
+# Pointers in C (play with and test pointers)
 
 ## Description
 This is a repository that contain some examples of pointers in `C`.
