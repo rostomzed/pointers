@@ -12,11 +12,12 @@ This is a repository that contain some examples of pointers in `C`.
 - [Pointers to Pointers](./03-pointers-to-pointers)
 
 ## Usage form main directory
-Show options available
+To show options available, run:
 ```shell
 make
 ```
 
+The output should be:
 ```
 Usage: make <target>
 Targets:
