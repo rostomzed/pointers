@@ -6,6 +6,7 @@ int main() {
   int **ptr2 = &ptr1;
 
   printf("The value of x is %d\n", x);
+  printf("The address of x is %p\n", &x);
   printf("The value of ptr1 is %p\n", ptr1);
   printf("The value of ptr2 is %p\n", ptr2);
   printf("The value that ptr2 points to is %p\n", *ptr2);
